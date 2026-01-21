@@ -1,7 +1,7 @@
 # Trabalho — Estatística (Trabalho Michela)
 
 ## Descrição
-Este repositório contém os códigos, dados e figuras produzidos para o segundo trabalho de Estatística desenvolvido por Matheus Parente Reis (571954) e Vinicius Alexandre Gomes do Nascimento (568594).
+Este repositório contém os códigos, dados e figuras produzidos para o terceiro trabalho de Estatística desenvolvido por Matheus Parente Reis (571954) e Vinicius Alexandre Gomes do Nascimento (568594).
 
 O objetivo do trabalho foi aplicar técnicas estatísticas e de visualização a conjuntos de dados disponibilizados pela disciplina. Os scripts em R realizam a análise exploratória, a modelagem (quando aplicável) e geram os gráficos incluídos na pasta `graficos`. Além disso, o relatório final do trabalho está disponível na pasta `relatorio/` como um arquivo PDF.
 
