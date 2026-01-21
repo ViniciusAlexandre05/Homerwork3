@@ -23,7 +23,6 @@ README.md
 codigos/
   questao1/
   questao2/
-  questao3/
 graficos/
 relatorio/
 ```
@@ -54,7 +53,7 @@ Para executar os scripts deste projeto, siga as etapas abaixo:
    - Os gráficos gerados serão salvos na pasta `graficos/`.
 
 5. **Pacotes:**
-   - Em nenhum momento foram utilizados pacotes. Todos os códigos foram feitos por meio de funções nativas do próprio _R_.
+   - palmerpenguins.
 
 ## Contato
 - Matheus Parente Reis — matheusreis@alu.ufc.br
